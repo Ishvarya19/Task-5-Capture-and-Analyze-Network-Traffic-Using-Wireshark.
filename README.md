@@ -11,7 +11,7 @@ To capture live network packets using Wireshark, identify different network prot
 
 ## Steps Performed
 
-# Step 1 - Install Wireshark:
+# Step 1 - Install Wireshark
 Download Wireshark from https://www.wireshark.org.
 Install with default settings and ensure “WinPcap” or “Npcap” is selected for packet capture.
 
